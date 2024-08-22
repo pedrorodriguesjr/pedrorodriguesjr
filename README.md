@@ -9,7 +9,7 @@ Me chamo Pedro, e aqui você encontrará meus estudos e trabalhos;
 
 
 ##🌱 Atualmente estou estudando
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
           
 
 <!--
