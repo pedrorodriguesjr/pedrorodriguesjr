@@ -1,11 +1,11 @@
 # Pedro Rodrigues 
 ## Hello, Devs! 👋
 
-Me chamo Pedro, e aqui você encontrará meus estudos e trabalhos;
+Me chamo Pedro, e aqui você encontrará meus estudos e trabalhos.
 
-🔭 Atualmente estou trabalhando com desenvolvimento FullStack;
-💬 Pergunte-me sobre jogos, filmes, plantas e tecnologia;
-📫 Como entrar em contato comigo: e-mail: pedro.rodriguesjr@outlook.com / [LinkedIn](https://www.linkedin.com/in/pedro-rodrigues-27b882113/) / [IG](https://www.instagram.com/calmapedro_/);
+🔭 Atualmente estou trabalhando com desenvolvimento FullStack.
+💬 Pergunte-me sobre jogos, filmes, plantas e tecnologia.
+📫 Como entrar em contato comigo: e-mail: pedro.rodriguesjr@outlook.com / [LinkedIn](https://www.linkedin.com/in/pedro-rodrigues-27b882113/) / [IG](https://www.instagram.com/calmapedro_/).
 
 
 ## 🌱 Atualmente estou estudando
