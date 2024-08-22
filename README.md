@@ -8,7 +8,7 @@ Me chamo Pedro, e aqui você encontrará meus estudos e trabalhos;
 📫 Como entrar em contato comigo: e-mail: pedro.rodriguesjr@outlook.com / [LinkedIn](https://www.linkedin.com/in/pedro-rodrigues-27b882113/) / [IG](https://www.instagram.com/calmapedro_/);
 
 
-##🌱 Atualmente estou estudando
+## 🌱 Atualmente estou estudando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
           
 
