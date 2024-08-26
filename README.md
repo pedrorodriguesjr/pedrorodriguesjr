@@ -2,7 +2,7 @@
 
 My name is Pedro, and here you will find my studies and work.
 <p>
-🔭 I'm currently working on FullStack development. <br>
+🔭 I'm currently working on Full Stack Dev <br>
 💬 Ask me about games, movies, music, plants and technology.
 
 </p>
